@@ -1,1 +1,1 @@
-List of some basic coding problems
+List of some basic coding problems implemented in C++.
